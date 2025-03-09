@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, Im Gaspar 👋
 
 <!--
 **G6aspar/G6aspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
